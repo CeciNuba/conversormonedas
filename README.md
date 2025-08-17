@@ -166,4 +166,5 @@ Este proyecto está bajo la licencia MIT – consulta el archivo LICENSE para m�
 👩‍💻 Autor
 
 Ceci Nuba – Proyecto de clase de Programación en Java - Alura Latam.
-[GitHub](https://github.com/CeciNuba) | [LinkedIn](www.linkedin.com/in/cecilia-banuelos)
+# Contacto
+[GitHub](https://github.com/cecinuba) | [LinkedIn](https://www.linkedin.com/in/cecilia-banuelos/)
