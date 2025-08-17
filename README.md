@@ -33,19 +33,15 @@ Se integra con la **API de ExchangeRate** para obtener tasas actualizadas y util
 ## 📂 Estructura del Proyecto
 
 conversor-monedas/
-│
 ├── src/
-│ ├── principal/
-│ │ └── Principal.java # Clase principal con menú y flujo de interacción
-│ │
-│ ├── calculos/
-│ │ └── Conversor.java # Lógica de conversión y obtención de tasas
-│ │
-│ └── modelos/
-│ └── TasaCambio.java # Record para mapear la respuesta JSON de la API
-│
-├── README.md # Este documento
-└── pom.xml / build.gradle # Configuración del proyecto (si aplica)
+│   ├── principal/
+│   │   └── Principal.java       # Clase principal con menú y flujo de interacción
+│   ├── calculos/
+│   │   └── Conversor.java       # Lógica de conversión y obtención de tasas
+│   └── modelos/
+│       └── TasaCambio.java      # Record para mapear la respuesta JSON de la API
+├── README.md                    # Este documento
+└── pom.xml / build.gradle        # Configuración del proyecto (si aplica)
 
 
 ---
@@ -170,4 +166,4 @@ Este proyecto está bajo la licencia MIT – consulta el archivo LICENSE para m�
 👩‍💻 Autor
 
 Ceci Nuba – Proyecto de clase de Programación en Java - Alura Latam.
-GitHub | LinkedIn
+[GitHub](https://github.com/CeciNuba) | [LinkedIn](www.linkedin.com/in/cecilia-banuelos)
